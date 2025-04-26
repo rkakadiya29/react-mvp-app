@@ -1,0 +1,682 @@
+[
+    {
+      "standardScoreRange": { "min": 145, "max": 150 },
+      "percentileRank": "99",
+      "scaledScore": "19",
+      "tScore": "80",
+      "zScore": "3",
+      "range": "Very Superior"
+    },
+    {
+      "standardScoreRange": { "min": 142, "max": 144 },
+      "percentileRank": "99",
+      "scaledScore": null,
+      "tScore": "78",
+      "zScore": "2.75",
+      "range": "Very Superior"
+    },
+    {
+      "standardScoreRange": { "min": 140, "max": 141 },
+      "percentileRank": "99",
+      "scaledScore": "18",
+      "tScore": "77",
+      "zScore": "2.67",
+      "range": "Very Superior"
+    },
+    {
+      "standardScoreRange": { "min": 137, "max": 139 },
+      "percentileRank": "99",
+      "scaledScore": null,
+      "tScore": "75",
+      "zScore": "2.5",
+      "range": "Very Superior"
+    },
+    {
+      "standardScoreRange": { "min": 135, "max": 136 },
+      "percentileRank": "99",
+      "scaledScore": "17",
+      "tScore": "73",
+      "zScore": "2.33",
+      "range": "Very Superior"
+    },
+    {
+      "standardScoreRange": { "min": 133, "max": 134 },
+      "percentileRank": "99",
+      "scaledScore": null,
+      "tScore": "72",
+      "zScore": "2.25",
+      "range": "Very Superior"
+    },
+    {
+      "standardScore": 132,
+      "percentileRank": "98",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Very Superior"
+    },
+    {
+      "standardScore": 131,
+      "percentileRank": "98",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Very Superior"
+    },
+    {
+      "standardScore": 130,
+      "percentileRank": "98",
+      "scaledScore": "16",
+      "tScore": "70",
+      "zScore": "2",
+      "range": "Very Superior"
+    },
+    {
+      "standardScore": 129,
+      "percentileRank": "97",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Superior"
+    },
+    {
+      "standardScoreRange": { "min": 128, "max": 128 },
+      "percentileRank": "97",
+      "scaledScore": null,
+      "tScore": "68",
+      "zScore": "1.75",
+      "range": "Superior"
+    },
+    {
+      "standardScore": 127,
+      "percentileRank": "96",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Superior"
+    },
+    {
+      "standardScore": 126,
+      "percentileRank": "96",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Superior"
+    },
+    {
+      "standardScore": 125,
+      "percentileRank": "95",
+      "scaledScore": "15",
+      "tScore": "67",
+      "zScore": "1.67",
+      "range": "Superior"
+    },
+    {
+      "standardScore": 124,
+      "percentileRank": "95",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Superior"
+    },
+    {
+      "standardScoreRange": { "min": 123, "max": 123 },
+      "percentileRank": "94",
+      "scaledScore": null,
+      "tScore": "65",
+      "zScore": "1.5",
+      "range": "Superior"
+    },
+    {
+      "standardScore": 122,
+      "percentileRank": "93",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Superior"
+    },
+    {
+      "standardScore": 121,
+      "percentileRank": "92",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Superior"
+    },
+    {
+      "standardScore": 120,
+      "percentileRank": "91",
+      "scaledScore": "14",
+      "tScore": "63",
+      "zScore": "1.33",
+      "range": "Superior"
+    },
+    {
+      "standardScore": 119,
+      "percentileRank": "90",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "High Average"
+    },
+    {
+      "standardScoreRange": { "min": 118, "max": 118 },
+      "percentileRank": "88",
+      "scaledScore": null,
+      "tScore": "62",
+      "zScore": "1.25",
+      "range": "High Average"
+    },
+    {
+      "standardScore": 117,
+      "percentileRank": "87",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "High Average"
+    },
+    {
+      "standardScore": 116,
+      "percentileRank": "86",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "High Average"
+    },
+    {
+      "standardScore": 115,
+      "percentileRank": "84",
+      "scaledScore": "13",
+      "tScore": "60",
+      "zScore": "1",
+      "range": "High Average"
+    },
+    {
+      "standardScore": 114,
+      "percentileRank": "82",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "High Average"
+    },
+    {
+      "standardScoreRange": { "min": 113, "max": 113 },
+      "percentileRank": "81",
+      "scaledScore": null,
+      "tScore": "58",
+      "zScore": "0.75",
+      "range": "High Average"
+    },
+    {
+      "standardScore": 112,
+      "percentileRank": "79",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "High Average"
+    },
+    {
+      "standardScore": 111,
+      "percentileRank": "77",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "High Average"
+    },
+    {
+      "standardScore": 110,
+      "percentileRank": "75",
+      "scaledScore": "12",
+      "tScore": "57",
+      "zScore": "0.67",
+      "range": "High Average"
+    },
+    {
+      "standardScore": 109,
+      "percentileRank": "73",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Average"
+    },
+    {
+      "standardScoreRange": { "min": 108, "max": 108 },
+      "percentileRank": "70",
+      "scaledScore": null,
+      "tScore": "55",
+      "zScore": "0.55",
+      "range": "Average"
+    },
+    {
+      "standardScore": 107,
+      "percentileRank": "68",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Average"
+    },
+    {
+      "standardScore": 106,
+      "percentileRank": "66",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Average"
+    },
+    {
+      "standardScore": 105,
+      "percentileRank": "63",
+      "scaledScore": "11",
+      "tScore": "53",
+      "zScore": "0.33",
+      "range": "Average"
+    },
+    {
+      "standardScore": 104,
+      "percentileRank": "61",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Average"
+    },
+    {
+      "standardScore": 103,
+      "percentileRank": "58",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Average"
+    },
+    {
+      "standardScoreRange": { "min": 102, "max": 102 },
+      "percentileRank": "55",
+      "scaledScore": null,
+      "tScore": "52",
+      "zScore": "0.25",
+      "range": "Average"
+    },
+    {
+      "standardScore": 101,
+      "percentileRank": "53",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Average"
+    },
+    {
+      "standardScore": 100,
+      "percentileRank": "50",
+      "scaledScore": "10",
+      "tScore": "50",
+      "zScore": "0",
+      "range": "Average"
+    },
+    {
+      "standardScore": 99,
+      "percentileRank": "47",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Average"
+    },
+    {
+      "standardScoreRange": { "min": 98, "max": 98 },
+      "percentileRank": "45",
+      "scaledScore": null,
+      "tScore": "48",
+      "zScore": "-0.25",
+      "range": "Average"
+    },
+    {
+      "standardScore": 97,
+      "percentileRank": "42",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Average"
+    },
+    {
+      "standardScore": 96,
+      "percentileRank": "40",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Average"
+    },
+    {
+      "standardScore": 95,
+      "percentileRank": "37",
+      "scaledScore": "9",
+      "tScore": "47",
+      "zScore": "-0.33",
+      "range": "Average"
+    },
+    {
+      "standardScore": 94,
+      "percentileRank": "34",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Average"
+    },
+    {
+      "standardScoreRange": { "min": 93, "max": 93 },
+      "percentileRank": "32",
+      "scaledScore": null,
+      "tScore": "45",
+      "zScore": "-0.5",
+      "range": "Average"
+    },
+    {
+      "standardScore": 92,
+      "percentileRank": "30",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Average"
+    },
+    {
+      "standardScore": 91,
+      "percentileRank": "27",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Average"
+    },
+    {
+      "standardScore": 90,
+      "percentileRank": "25",
+      "scaledScore": "8",
+      "tScore": "43",
+      "zScore": "-0.67",
+      "range": "Average"
+    },
+    {
+      "standardScore": 89,
+      "percentileRank": "23",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Low Average"
+    },
+    {
+      "standardScoreRange": { "min": 88, "max": 88 },
+      "percentileRank": "21",
+      "scaledScore": null,
+      "tScore": "42",
+      "zScore": "-0.75",
+      "range": "Low Average"
+    },
+    {
+      "standardScore": 87,
+      "percentileRank": "19",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Low Average"
+    },
+    {
+      "standardScore": 86,
+      "percentileRank": "18",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Low Average"
+    },
+    {
+      "standardScore": 85,
+      "percentileRank": "16",
+      "scaledScore": "7",
+      "tScore": "40",
+      "zScore": "-1",
+      "range": "Low Average"
+    },
+    {
+      "standardScore": 84,
+      "percentileRank": "14",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Low Average"
+    },
+    {
+      "standardScoreRange": { "min": 83, "max": 83 },
+      "percentileRank": "13",
+      "scaledScore": null,
+      "tScore": "38",
+      "zScore": "-1.25",
+      "range": "Low Average"
+    },
+    {
+      "standardScore": 82,
+      "percentileRank": "12",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Low Average"
+    },
+    {
+      "standardScore": 81,
+      "percentileRank": "10",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Low Average"
+    },
+    {
+      "standardScore": 80,
+      "percentileRank": "9",
+      "scaledScore": "6",
+      "tScore": "37",
+      "zScore": "-1.33",
+      "range": "Low Average"
+    },
+    {
+      "standardScore": 79,
+      "percentileRank": "8",
+      "scaledScore": null,
+      "tScore": null,
+      "zScore": null,
+      "range": "Borderline"
+    },
+    {
+      "standardScoreRange": { "min": 78, "max": 78 },
+      "percentileRank": "7",
+      "scaledScore": null,
+      "tScore": "35",
+      "zScore": "-1.5",
+      "range": "Borderline"
+    },
+    {
+        "standardScore": 77,
+        "percentileRank": "6",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Borderline"
+    },
+    {
+        "standardScore": 76,
+        "percentileRank": "5",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Borderline"
+    },
+    {
+        "standardScore": 75,
+        "percentileRank": "5",
+        "scaledScore": "5",
+        "tScore": "33",
+        "zScore": "-1.67",
+        "range": "Borderline"
+    },
+    {
+        "standardScore": 74,
+        "percentileRank": "4",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Borderline"
+    },
+    {
+        "standardScoreRange": { "min": 73, "max": 73 },
+        "percentileRank": "4",
+        "scaledScore": null,
+        "tScore": "32",
+        "zScore": "-1.75",
+        "range": "Borderline"
+    },
+    {
+        "standardScore": 72,
+        "percentileRank": "3",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Borderline"
+    },
+    {
+        "standardScore": 71,
+        "percentileRank": "3",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Borderline"
+    },
+    {
+        "standardScore": 70,
+        "percentileRank": "2",
+        "scaledScore": "4",
+        "tScore": "30",
+        "zScore": "-2",
+        "range": "Borderline"
+    },
+    {
+        "standardScore": 69,
+        "percentileRank": "2",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Extremely Low"
+    },
+    {
+        "standardScoreRange": { "min": 68, "max": 68 },
+        "percentileRank": "2",
+        "scaledScore": null,
+        "tScore": "28",
+        "zScore": "-2.25",
+        "range": "Extremely Low"
+    },
+    {
+        "standardScore": 67,
+        "percentileRank": "1",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Extremely Low"
+    },
+    {
+        "standardScore": 66,
+        "percentileRank": "1",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Extremely Low"
+    },
+    {
+        "standardScore": 65,
+        "percentileRank": "1",
+        "scaledScore": "3",
+        "tScore": "27",
+        "zScore": "-2.33",
+        "range": "Extremely Low"
+    },
+    {
+        "standardScore": 64,
+        "percentileRank": "1",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Extremely Low"
+    },
+    {
+        "standardScoreRange": { "min": 63, "max": 63 },
+        "percentileRank": "1",
+        "scaledScore": null,
+        "tScore": "25",
+        "zScore": "-2.5",
+        "range": "Extremely Low"
+    },
+    {
+        "standardScore": 62,
+        "percentileRank": "1",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Extremely Low"
+    },
+    {
+        "standardScore": 61,
+        "percentileRank": "1",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Extremely Low"
+    },
+    {
+        "standardScore": 60,
+        "percentileRank": "1",
+        "scaledScore": "2",
+        "tScore": "23",
+        "zScore": "-2.67",
+        "range": "Extremely Low"
+    },
+    {
+        "standardScore": 59,
+        "percentileRank": "1",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Extremely Low"
+    },
+    {
+        "standardScoreRange": { "min": 58, "max": 58 },
+        "percentileRank": "1",
+        "scaledScore": null,
+        "tScore": "22",
+        "zScore": "-2.75",
+        "range": "Extremely Low"
+    },
+    {
+        "standardScore": 57,
+        "percentileRank": "1",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Extremely Low"
+    },
+    {
+        "standardScore": 56,
+        "percentileRank": "1",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Extremely Low"
+    },
+    {
+        "standardScore": 55,
+        "percentileRank": "1",
+        "scaledScore": "1",
+        "tScore": "20",
+        "zScore": "-3",
+        "range": "Extremely Low"
+    },
+    {
+        "standardScoreRange": { "min": 50, "max": 54 },
+        "percentileRank": "1",
+        "scaledScore": null,
+        "tScore": null,
+        "zScore": null,
+        "range": "Extremely Low"
+    }
+]
